@@ -7,7 +7,7 @@ In this section I presents two important review papers' summary:
 
 # Challenges in Deploying Machine Learning: A Survey of Case Studies
 
-![Figure 1: Considerations, Issues, and Concerns explored in the study](proj-1/AI_Challanges-Map_1.png) { width: 200px;}
+![Figure 1: Considerations, Issues, and Concerns explored in the study](proj-1/AI_Challanges-Map_1.png =10x10) 
 
 Figure 1: Considerations, Issues, and Concerns explored in the study
 
