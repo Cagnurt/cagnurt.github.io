@@ -7,7 +7,7 @@ In this section I presents two important review papers' summary:
 
 # Challenges in Deploying Machine Learning: A Survey of Case Studies
 
-[<Considerations, Issues, and Concerns explored in the study src="proj-1/AI_Challanges-Map_1.png" width="200"](proj-1/AI_Challanges-Map_1.png)
+<img src='./proj-1/AI_Challanges-Map_1.png' width=400 height=250>
 
 Figure 1: Considerations, Issues, and Concerns explored in the study
 
@@ -74,7 +74,8 @@ academic world's awareness of these challenges.
 
 # Hidden Technical Debt in Machine Learning Systems
 
-![AI Challanges-Technical Debt.png](proj-1/AI_Challanges-Technical_Debt.png)
+<img src='./proj-1/AI_Challanges-Technical_Debt.png' width=400 height=250>
+Figure 2: Add title
 
 The study makes us think that the things that machine learning brings in have a price. It
 covers technical debts under seven topics: the border erosion -a boundary problem brought
