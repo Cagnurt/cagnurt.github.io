@@ -27,7 +27,7 @@
   @include prefixer(column-rule-color, $color, webkit moz spec);
 }
 
-@mixin column-rule-style($style: none) {
+@mixin column-rule-style($style: dotted) {
 // none | hidden | dashed | dotted | double | groove | inset | inset | outset | ridge | solid
   @include prefixer(column-rule-style, $style, webkit moz spec);
 }
