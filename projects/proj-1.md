@@ -1,4 +1,4 @@
-# Importance-of-MLOps
+# Importance of MLOps
 
 In this section I presents two important review papers' summary: 
 

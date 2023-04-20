@@ -32,7 +32,7 @@
   @include prefixer(column-rule-style, $style, webkit moz spec);
 }
 
-@mixin column-rule-width ($width: none) {
+@mixin column-rule-width ($width: 500px) {
   @include prefixer(column-rule-width, $width, webkit moz spec);
 }
 
@@ -41,7 +41,7 @@
   @include prefixer(column-span, $arg, webkit moz spec);
 }
 
-@mixin column-width($length: 500px) {
+@mixin column-width($length: 800px) {
 // auto || length
   @include prefixer(column-width, $length, webkit moz spec);
 }
