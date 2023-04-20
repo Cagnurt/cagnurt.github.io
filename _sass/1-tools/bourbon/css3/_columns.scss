@@ -41,7 +41,7 @@
   @include prefixer(column-span, $arg, webkit moz spec);
 }
 
-@mixin column-width($length: auto) {
+@mixin column-width($length: 500px) {
 // auto || length
   @include prefixer(column-width, $length, webkit moz spec);
 }
