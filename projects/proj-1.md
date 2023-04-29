@@ -11,6 +11,8 @@ In this section I presents two important review papers' summary:
 
 Figure 1: Considerations, Issues, and Concerns explored in the study
 
+<span style="color:blue">some *denmee* text</span>.
+
 The study taxonomizes the challenges in the machine learning (ML) deployment stage into
 five topics. The first four are technical, and the last one is non-technical: Data Management,
 Model Learning/Selection, Model Verification, Model Deployment, and Cross-Cutting
