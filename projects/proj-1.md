@@ -11,7 +11,6 @@ In this section I presents two important review papers' summary:
 
 Figure 1: Considerations, Issues, and Concerns explored in the study
 
-some *denmee* text</span>.
 
 The study taxonomizes the challenges in the machine learning (ML) deployment stage into
 five topics. The first four are technical, and the last one is non-technical: Data Management,
@@ -27,7 +26,7 @@ unsupervised, the labeling problem arises. Other concerns here are access to exp
 the available data is not rich enough to cover the entire problem. Analyses of the data cover
 the studies to improve data quality.</span>
 
-<span style="color:blue">Model learning includes three subtopics: Model training, model selection, and hyper-
+<span style="color:steel blue">Model learning includes three subtopics: Model training, model selection, and hyper-
 parameter selection/hyper-parameter optimization (HPO). Computational cost and
 environmental impacts are the main concerns for model training. The model selection has
 three issues: If the model is complex, the teams may overwhelm to optimize. If the resource
@@ -38,20 +37,20 @@ hyperparameter set is logical if there are limited resources to try the elements
 HPO often needs to consider specific requirements imposed by the model's environment so
 hardware-aware optimization is another issue in this subtopic.</span>
 
-<span style="color:orange">Model verification challenges constitute three aspects: requirement encoding, formal
+<span style="color:burnt sienna">Model verification challenges constitute three aspects: requirement encoding, formal
 verification, and test-based verification. Not only reliable performance but also business-
 driven performance is added to the requirements. The verification requires high-quality
 standards, which are formally set via extensive regulatory frameworks. Tests should consider
 the whole real-world environment, which is challenging to be alone. However, simulations
 can help in this case but are based on some assumptions.</span>
 
-<span style="color:red">Model deployment challenges focus on the ineffectiveness of DevOps in the machine
+<span style="color:lime green">Model deployment challenges focus on the ineffectiveness of DevOps in the machine
 learning process. The study examines it under three headings: Integration, Monitoring, and
 Updating. Integration refers to "implementing the model itself in a form that can be
 consumed and supported." (Although the table mentions "operational support" under this
 section, I could not find any specific paragraph for this.) </span>
 
-<span style="color:yellow">There are non-technical challenges that ML brings to our life: ethical and security concerns.
+<span style="color:cadmium orange">There are non-technical challenges that ML brings to our life: ethical and security concerns.
 Gaining the end user's trust is considered a challenge in this study. Ethical issues are
 the following: Restricting access to data due to some regulations that the country restricts,
 engineers only thinking technically and not thinking about the social dimension, the labeling
