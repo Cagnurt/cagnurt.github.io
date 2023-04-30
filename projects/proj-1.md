@@ -7,7 +7,7 @@ In this section I presents two important review papers' summary:
 
 # Challenges in Deploying Machine Learning: A Survey of Case Studies
 
-<img src='./proj-1/AI_Challanges-Map_1.png' width=750 height=250>
+<img src='./proj-1/AI_Challanges-Map_1.png' width=750 height=595>
 
 Figure 1: Considerations, Issues, and Concerns explored in the study
 
@@ -73,7 +73,7 @@ academic world's awareness of these challenges.
 
 # Hidden Technical Debt in Machine Learning Systems
 
-<img src='./proj-1/AI_Challanges-Technical_Debt.png' width=750 height=250>
+<img src='./proj-1/AI_Challanges-Technical_Debt.png' width=750 height=354>
 Figure 2: Add title
 
 The study makes us think that the things that machine learning brings in have a price. It
@@ -134,7 +134,7 @@ question of what to monitor arises. For this, the study offers three different s
 It is emphasized in the article that monitoring and testing are essential to developing this
 mechanism to react in real-time.</span>
 
-<span style="color:gray">Finally, the study mentions other debts: Data testing, reproducibility, process management,
+<span style="color:#4682B4">Finally, the study mentions other debts: Data testing, reproducibility, process management,
 and culture. Checking data distribution can be helpful in a robust, well-functioning system,
 but it is another debt. Reproducibility, a necessity brought by science, is also a particular
 problem: The randomness in machine learning makes it difficult to follow this rule. The cost
