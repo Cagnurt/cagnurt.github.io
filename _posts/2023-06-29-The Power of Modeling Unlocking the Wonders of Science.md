@@ -1,5 +1,3 @@
-# The Power of Modeling: Unlocking the Wonders of Science
-
 Back in 2017, during my time as an engineering student, I had the opportunity to visit the Boston Museum of Science. Little did I know that this visit would profoundly impact my understanding of the world around me. The museum's dedicated section on modeling caught my attention, and I found myself pondering why modeling, something seemingly simple, warranted such a significant portion of the museum. 
 
 It wasn't until later, when I embarked on a Computational Neuroscience Ph.D. course, that I began to unravel the remarkable power of modeling. In this article, I will delve into three key aspects that make modeling an indispensable tool in scientific exploration.
