@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Importance of MLOps: Two Survey Articles' Summaries"
+---
 In this section I presents two important review papers' summary: 
 
 - Challenges in Deploying Machine Learning: a Survey of Case Studies by Paleyes, Urma, Lawrence
