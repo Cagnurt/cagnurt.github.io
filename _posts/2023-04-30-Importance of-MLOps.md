@@ -7,7 +7,7 @@ In this section I presents two important review papers' summary:
 - Challenges in Deploying Machine Learning: a Survey of Case Studies by Paleyes, Urma, Lawrence
 - Hidden Technical Debt in Machine Learning Systems by Sculley et al.
 
-### Challenges in Deploying Machine Learning: A Survey of Case Studies
+#### Challenges in Deploying Machine Learning: A Survey of Case Studies
 
 <img src='./proj-1/AI_Challanges-Map_1.png' width=750 height=595>
 
@@ -73,7 +73,7 @@ challenges: Tools & services and Holistic approaches. Although the study's main
 contributions are to overlook the challenges in practices in ML, the main goal is to show the
 academic world's awareness of these challenges.
 
-### Hidden Technical Debt in Machine Learning Systems
+#### Hidden Technical Debt in Machine Learning Systems
 
 <img src='./proj-1/AI_Challanges-Technical_Debt.png' width=750 height=354>
 Figure 2: Add title
