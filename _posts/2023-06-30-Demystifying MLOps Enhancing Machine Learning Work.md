@@ -3,7 +3,7 @@ layout: post
 title: "Demystifying MLOps: Enhancing Machine Learning Workflow and Addressing Key Challenges"
 ---
 
-## What is MLOps?
+#### What is MLOps?
 
 Main Source:
 
@@ -22,7 +22,7 @@ MLOps addresses the following gaps:
 - DevOps teams strive to automate all their workflows, and for the most part, today they have. However, data scientists/ml engineers are excluded. For example, Git is a perfect tool for building, testing and deploying to a production environment. However, due to the nature of ML projects, Git can be an environment that makes this problematic.
 - ML projects may require tuning, scalability, automation, and packaging. These tasks may take months, and the process is iterative. DevOps does not propose a strategy to support this continuity.
 
-## Versioning
+#### Versioning
 
 ### What is dataset/model versioning?
 
@@ -39,7 +39,7 @@ It is the process of applying different naming of different stages of a data/mod
 
 In ML, the data changes over time, and models need to be retrained regularly, which is not the case for software engineering. If the module requires the requirements in the software engineering field, it is frozen.
 
-## ML in Academia vs. Industry
+#### ML in Academia vs. Industry
 
 ### What are the differences between doing ML in academic and industrial settings?
 
@@ -54,7 +54,7 @@ In ML, the data changes over time, and models need to be retrained regularly, wh
 | Motivation | Internally motivated | Product-oriented |
 | Money Support | Rare or few (at least for Turkey) | Full support from the company |
 
-## Performance Issues
+#### Performance Issues
 
 ### Say your model has a decent test set performance but performs poorly in production. What could be the issue?
 
