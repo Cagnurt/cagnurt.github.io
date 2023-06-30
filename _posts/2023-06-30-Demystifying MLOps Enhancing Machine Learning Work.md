@@ -15,7 +15,7 @@ Main Source:
 - Approach for streamlining end-to-end ML life cycle
 - Does for Data scientists and/or ML engineers what DevOps does for developers
 
-### What problems does it address?
+##### What problems does it address?
 
 MLOps addresses the following gaps:
 
@@ -24,24 +24,24 @@ MLOps addresses the following gaps:
 
 #### Versioning
 
-### What is dataset/model versioning?
+##### What is dataset/model versioning?
 
 It is the process of applying different naming of different stages of a data/model.
 
-### In which cases would it be useful?
+##### In which cases would it be useful?
 
 - Facilitating easy sharing
 - Collaboration
 - Model reuse in an environment that includes comprehensive access control
 - Traceability
 
-### How does it differ from software versioning?
+##### How does it differ from software versioning?
 
 In ML, the data changes over time, and models need to be retrained regularly, which is not the case for software engineering. If the module requires the requirements in the software engineering field, it is frozen.
 
 #### ML in Academia vs. Industry
 
-### What are the differences between doing ML in academic and industrial settings?
+##### What are the differences between doing ML in academic and industrial settings?
 
 |  | Academia | Industry |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ In ML, the data changes over time, and models need to be retrained regularly, wh
 
 #### Performance Issues
 
-### Say your model has a decent test set performance but performs poorly in production. What could be the issue?
+##### Say your model has a decent test set performance but performs poorly in production. What could be the issue?
 
 I assume that the performance refers to the metric in this question. Let's say you get high accuracy in your test set but not in production. These are the possible reasons:
 
@@ -72,6 +72,6 @@ If we assume that the performance refers to the needs:
     - Your test environment has a higher and more powerful GPU but the production has poor. Although the model fits in the GPU, the evaluation process takes longer in real time. This could be a poor performance from the customer's point of view.
     - The model output requires memory. Your test environment has high memory, and memory is not an issue for you. But the product has less memory. Let us say after a few usages; the customer could not use the product without deleting the old ones because the memory is full. This could be a poor performance from the customer's point of view.
 
-### How would you address this problem?
+##### How would you address this problem?
 
 The data in which the model fails is examined manually. Try to find a pattern among the data with an error. After finding, a dataset should be created and the model should be retrained with this new dataset. (It is for deep learning. If the data is for machine learning, a discovered or missing feature should be added.)
