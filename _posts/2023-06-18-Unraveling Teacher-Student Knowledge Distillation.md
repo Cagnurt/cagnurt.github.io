@@ -12,7 +12,7 @@ Sources for answering the questions:
 
 **Take a look at the paper**
 
-![Lit Rev-Knowledge Distillation.png](2023-06-18/Lit_Rev-Knowledge_Distillation.png)
+![alt-text](./2023-06-18/Lit_Rev-Knowledge_Distillation.png)
 
 ## Teacher-student knowledge distillation
 
